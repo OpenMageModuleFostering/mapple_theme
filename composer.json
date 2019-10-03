@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/mApple_theme",
+    "name": "openmage-module-fostering\/mapple_theme",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "mApple - Free Magento Theme",
     "authors": [
